@@ -1,0 +1,10 @@
+*csv
+*txt
+.idea
+.git
+customer_purchase.py
+friends-by-age.py
+*temperatures.py
+test.py
+word-count*.py
+ml-100k
