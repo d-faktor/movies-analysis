@@ -8,3 +8,7 @@ friends-by-age.py
 test.py
 word-count*.py
 ml-100k
+movie-similarities-1m.py
+spark-sql.py
+spark-linear-regression.py
+movie-recommendations-als.py
